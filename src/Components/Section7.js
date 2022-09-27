@@ -1,7 +1,3 @@
-import car from "../Images/car.svg";
-import taxi from "../Images/taxi.svg";
-import payment from "../Images/pay.svg";
-
 function Section7() {
   let style = {
     size: "relative w-full h-[400px] text-white",

@@ -10,7 +10,6 @@ function Section6() {
     box2: "flex flex-col items-start justify-between w-[29%] h-[90%]",
     box3: "flex flex-col items-start justify-between w-[29%] h-[95%]",
     img: "w-full h-[180px] object-cover",
-    txt: " text-[18px] mb-[15px] mt-[12px]",
   };
 
   return (
